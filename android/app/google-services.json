@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834240682223",
+    "project_id": "xcerpts-400901",
+    "storage_bucket": "xcerpts-400901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834240682223:android:d5331c11c629e6d985631a",
+        "android_client_info": {
+          "package_name": "com.example.xcerpts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMIfeAmLtMGM6zmTdvrKUHbWEFEsX5mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
